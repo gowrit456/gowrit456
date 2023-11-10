@@ -1,4 +1,4 @@
-import os 
+ggowri os 
   
  print("Lets start the file handling program") 
   
@@ -45,7 +45,7 @@ import os
              name=input("Enter the file name:") 
              name=name+".txt" 
              file=open(name+".txt", "w") 
-             print(file.write("deepthi")) 
+             print(file.write("gowri")) 
              print("______________________________________________________") 
              f() 
          case 5: 
