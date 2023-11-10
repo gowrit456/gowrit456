@@ -1,4 +1,4 @@
-ggowri os 
+ import os
   
  print("Lets start the file handling program") 
   
